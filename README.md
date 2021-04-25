@@ -35,5 +35,5 @@ The below are the application that I have used for developing this project<br />
 
 # contact
 
-if any suggestions , [mail me](santhoshmanapuram568@gmail.com):{:target="_blank"}
+if any suggestions , [mail me](santhoshmanapuram568@gmail.com){:target="_blank"}
 
