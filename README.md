@@ -5,10 +5,10 @@ He can also search other users who have registred in the application, by searchi
 
 # applications needed
 
-The below are the application that I have used for developing this project<br />
-1.Spring Tool Suite 4.9 (Link to download it -> https://spring.io/tools)<br />
-2.Visual Studio Code (Link to download it -> https://code.visualstudio.com/)<br />
-3.MongoDB community server (Link to download it -> https://www.mongodb.com/try/download/community)<br />
+The below are the application that I have used for developing this project<br /><br />
+1.Spring Tool Suite 4.9 (Link to download it -> https://spring.io/tools)<br /><br />
+2.Visual Studio Code (Link to download it -> https://code.visualstudio.com/)<br /><br />
+3.MongoDB community server (Link to download it -> https://www.mongodb.com/try/download/community)<br /><br />
 
 # how to use
 
