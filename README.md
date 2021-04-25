@@ -31,7 +31,7 @@ The below are the application that I have used for developing this project<br />
 14.Once all the applications are up and running , open the browser and type localhost:4200 , you will see the UI for TweetApp<br /><br />
 <br />
 16.Register -> login -> postTweet 
-<br /><br />
+<br />
 <h1>Enjoy the Application</h1><br />
 
 # contact
