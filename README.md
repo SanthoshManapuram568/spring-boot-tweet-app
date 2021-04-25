@@ -29,11 +29,12 @@ The below are the application that I have used for developing this project<br />
   Click [here](https://www.bmc.com/blogs/mongodb-compass/#:~:text=First%2C%20open%20your%20MongoDB%20Compass,and%20the%20port%20is%2027017.) how to run and create db in mangodb compass.<br />
 13.Open Spring Tool Suite and in the project there will be TweetAppApiApplication.java , Right click on it and run as Java Application<br />
 14.Once all the applications are up and running , open the browser and type localhost:4200 , you will see the UI for TweetApp<br />
-15.Register -> login -> postTweet 
+<br />
+16.Register -> login -> postTweet 
 <br />
 <h1>Enjoy the Application</h1><br />
 
 # contact
 
-if any suggestions , [mail me](http://stackoverflow.com)<br />
+if any suggestions , mail to : SanthoshManapuram568@gmail.com<br />
 
