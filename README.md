@@ -28,7 +28,7 @@ The below are the application that I have used for developing this project<br />
 12.After successful connection , create a new Db by clicking CREATE DATABASE -> Enter Database name as usersbda and collection name as users<br /><br />
   Click [here](https://www.bmc.com/blogs/mongodb-compass/#:~:text=First%2C%20open%20your%20MongoDB%20Compass,and%20the%20port%20is%2027017.) how to run and create db in mangodb compass.<br /><br />
 13.Open Spring Tool Suite and in the project there will be TweetAppApiApplication.java , Right click on it and run as Java Application<br /><br />
-14.Once all the applications are up and running , open the browser and type localhost:4200 , you will see the UI for TweetApp<br /><br />
+14.Once all the applications are up and running , open the browser and type <b>localhost:4200</b> , you will see the UI for TweetApp<br /><br />
 <br />
 16.Register -> login -> postTweet 
 <br />
